@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 430px) {
+    div#container {
+        width: 90%;
+    }
+}
+
+@media screen and (min-width: 430px) {
+    div#container {
+        max-width: 350px;
+    }
+}
